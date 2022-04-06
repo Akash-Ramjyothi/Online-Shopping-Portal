@@ -80,9 +80,6 @@ https://drive.google.com/file/d/1PAKvSNvvfrjpbf0oU3UPQGL5h7H9GHOP/view?usp=shari
   ☎️ PH:+91 8939928002.
 </p>
 
-## 🎁 Presentation Link:
-
-
 ## 🌐 References Used:
 - https://www.youtube.com/watch?v=jHBvDdz_27c
 - https://www.youtube.com/watch?v=eAK8uYtNTy4
