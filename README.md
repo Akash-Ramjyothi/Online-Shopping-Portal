@@ -1,14 +1,14 @@
-<h1 align="center">ShopTronics</h1>
+<h1 align="center">Online Shopping Portal</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/161577427-e2460eb6-4c2f-489c-831f-f071a38677d1.png" width="180" height="180">
+<img src="https://user-images.githubusercontent.com/54114888/162025676-863c7036-c451-4739-8ef0-a9c1e0aa0843.png" width="180" height="180">
 </p>
 
 ## 📜 Description:
-Developed a Multi-Role based Online Shopping Portal named **"ShopTronics"**. The software allows online shopping customers to accumulate a list of items for purchase, described metaphorically as “placing items in the shopping cart” or “add to cart.” Upon checkout, the software typically calculates a total for the order, including shipping and handling (i.e., postage and packing) charges and the associated taxes, as applicable.
+Online shopping is a form of electronic shopping store where the buyer is directly online to the seller's computer usually via the internet. There is no intermediary service. The sale and purchase transaction is completed electronically and interactively in real- time. The development of this new system contains the following activities, which try to develop on- line application by keeping the entire process in the view of database integration approach.
 
 ## 📽 Sample Demo:
-https://drive.google.com/file/d/1uxkbmfXVnqmDCJPi82de64UO8x4rxKdp/view?usp=sharing
+https://drive.google.com/file/d/1PAKvSNvvfrjpbf0oU3UPQGL5h7H9GHOP/view?usp=sharing
 
 ## 🏗 Built With:
 - PHP.
@@ -20,11 +20,14 @@ https://drive.google.com/file/d/1uxkbmfXVnqmDCJPi82de64UO8x4rxKdp/view?usp=shari
 - XAMPP.
 
 ## 🧪 Steps to Build locally:
-- Download the project and unzip the file.
-- Create database “shopping”.
-- Import the database file( Database will be avail in the package).
-- Link for the project: http://localhost/shopping
-- Link for admin Panel: http://localhost/shopping/admin
+- Download zip file and Unzip file on your local server.
+- Put this file inside "c:/wamp/www/" .
+- Database Configuration:
+- Open phpmyadmin
+- Create Database named "shop".
+- Import database shop.sql.
+- Open Your browser put inside URL: "http://localhost/Online_Shopping/"
+- To Login as admin put inside URL:"http://localhost/Online_Shopping/admin"
 
 ## 🤵🏻‍♂️ Admin User functionalities:
 - Product Management(Add,Update, Delete).
@@ -54,15 +57,15 @@ https://drive.google.com/file/d/1uxkbmfXVnqmDCJPi82de64UO8x4rxKdp/view?usp=shari
 - Add Screenshots to help me know what this Code is all about.
 
 ## 👦 Developed By:
-<h2 align="center">Rasineni Tharunchowdary</h2>
+<h2 align="center">Dinesh Kumar</h2>
 <p align="center">
-  <a href="https://github.com/tharunchowdary2001"><img src="https://user-images.githubusercontent.com/54114888/161580242-fc309c53-c6f0-4807-a77b-a060cce0f9a3.png" width=150px height=150px /></a> 
+  <a href="https://github.com/Dineshkumar013"><img src="https://avatars.githubusercontent.com/u/60866104?v=4" width=150px height=150px /></a> 
     
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rasinenitharunchowdary@gmail.com?subject=Hello%20Tharun,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/tharun__chowdary/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  ☎️ PH:+91 6301 138 248.
+  <a target="_blank"href="https://www.linkedin.com/in/dk013//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dineshkumarr013@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/a._.powerful_alter_ego/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ☎️ PH:+91 7338858353.
 </p>
 
 
@@ -78,7 +81,7 @@ https://drive.google.com/file/d/1uxkbmfXVnqmDCJPi82de64UO8x4rxKdp/view?usp=shari
 </p>
 
 ## 🎁 Presentation Link:
-https://www.canva.com/design/DAE870wBacI/VXrtoa2IQ2p0TvAAAk-2OA/view?utm_content=DAE870wBacI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## 🌐 References Used:
 - https://www.youtube.com/watch?v=jHBvDdz_27c
